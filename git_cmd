@@ -1,3 +1,4 @@
 git add .
 git commit -m 123456
-git push
+#git push
+echo abskjha|git push
