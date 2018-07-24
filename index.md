@@ -3,15 +3,15 @@ layout: default
 ---
 
 
-<div class='container content contact'>
-<img class="profile-picture" src="sherlock.jpg">
 
+<img class="profile-picture" src="sherlock.jpg">
+<hr>
 Abhishek Jha  
 MS (by research), Computer Science  
 [Centre for Visual Information Technology (CVIT)](http://cvit.iiit.ac.in)  
 [IIIT Hyderabad](http://iiit.ac.in)
-</div>
-<hr>
+
+
 
 ## News
 
