@@ -9,7 +9,9 @@ layout: default
 I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## News
+
+
 
 ## Research Interest
 
