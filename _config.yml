@@ -6,7 +6,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: No
 footer_url: "https://github.com/abskjha"
 footer_text: "Page adapted by Abhishek Jha"
 
