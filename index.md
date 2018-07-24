@@ -2,20 +2,22 @@
 layout: default
 ---
 
-## About Me
+
 
 <img class="profile-picture" src="sherlock.jpg">
 
-I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
+Abhishek Jha
+MS (by research), Computer Science,
+[IIIT Hyderabad](http://iiit.ac.in)
 
 
 ## News
 
 
 
-## Research Interest
+## Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
 
 ## Publications
 
