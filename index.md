@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div>
+<div class='container content contact'>
 <img class="profile-picture" src="sherlock.jpg">
 
 Abhishek Jha  
