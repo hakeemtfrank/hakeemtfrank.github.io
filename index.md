@@ -6,6 +6,8 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
+I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
+
 dscfdsfdsf
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
