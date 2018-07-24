@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+#Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+
+I am a Computer Science MS student at [IIIT Hyderabad](http://iiit.ac.in), working under the guidance of [Prof. C. V. Jawahar](http://https://faculty.iiit.ac.in/~jawahar/).
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
