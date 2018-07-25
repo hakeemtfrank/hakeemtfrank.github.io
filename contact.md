@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [abhishek_dot_jha_at_research.iiit.ac.in](mailto:abhishek_dot_jha_at_research.iiit.ac.in)  
+(where \_dot\_ is **.** and \_at\_ is \@)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Kadambh Niwas (NBH)
 >
-> London
+> IIIT Hyderabad, Gachibowli
 >
-> United Kingdom
+> Telangana, India
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://in.linkedin.com/in/abhishekjha2010)
+2. [Twitter](http://twitter.com/abhishekjha2010)
+3. [Google+](https://www.instagram.com/abhishekjha2010/)
