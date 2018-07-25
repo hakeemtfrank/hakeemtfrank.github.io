@@ -24,11 +24,12 @@
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
+            <div class = "top-container top-content">
+                    {%include top-content.html %}
+            </div>
             <div class="container content">
         {% endif %}
-                <div class = "top-container top-content">
-                    {%include top-content.html %}
-                </div>
+               
                 {{ content }}
 				{% if site.footer == true %}
 					<hr />
