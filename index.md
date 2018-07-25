@@ -18,7 +18,7 @@ I am a Computer Science MS student at IIIT Hyderabad, working under the guidance
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+This is a [*link*](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
