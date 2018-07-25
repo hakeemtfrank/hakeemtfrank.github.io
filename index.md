@@ -17,7 +17,7 @@ layout: default
 
 - **\[Mar 2018\]** Presenting my work paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
 
-
+- **\[Jan 2018\]** Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
 
 
 ## Bio
