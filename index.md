@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
+<!-- 
 
-
-<!-- <div class = "top-container top-content">
+<div class = "top-container top-content">
 <img class="profile-picture" src="sherlock.jpg">
 <hr>
 
