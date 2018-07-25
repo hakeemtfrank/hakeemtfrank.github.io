@@ -10,10 +10,6 @@ footer: yes
 footer_url: "https://github.com/abskjha"
 footer_text: "Abhishek Jha (c) 2018"
 
-# profile_details: 
-
-# profile_picture_path: "sherlock.jpg"
-
 sass:
     style: compressed
     sass_dir: _sass
