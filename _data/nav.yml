@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "contact"
 
+# - name: "Blog"
+#   link: "contact"
+
 - name: "Resume"
   link: "resume.pdf"
 
