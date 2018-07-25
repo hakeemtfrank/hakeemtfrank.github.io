@@ -22,4 +22,4 @@ is_contact: true
 
 1. [LinkedIn](https://in.linkedin.com/in/abhishekjha2010)
 2. [Twitter](http://twitter.com/abhishekjha2010)
-3. [Google+](https://www.instagram.com/abhishekjha2010/)
+3. [Instagram](https://www.instagram.com/abhishekjha2010/)
