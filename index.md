@@ -30,14 +30,14 @@ I am a Computer Science MS student at IIIT Hyderabad, working under the guidance
 ## Publications
 
 1.  Abhishek  Jha,  Vinay  Namboodiri  and  C.V.  Jawahar,  ”Word  Spotting  in  Silent  Lip  Videos”,  IEEE  Winter
-Conference on Applications of Computer Vision (WACV) 2018.
+Conference on Applications of Computer Vision (WACV) 2018. [Paper](https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf) [Poster](https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing) [Project page](https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting)
 
-2. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018.
+2. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. [Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)
 
-3.  Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018.
+3.  Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018. [Paper](https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing)
 
 4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
-matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018.
+matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. [Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)
 
 ## Typography
 
