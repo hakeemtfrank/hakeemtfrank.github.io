@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [abhishek_dot_jha_at_research.iiit.ac.in](mailto:abhishek_dot_jha_at_research.iiit.ac.in)  
-(where \_dot\_ is **.** and \_at\_ is \@)
+(where \_dot\_ is   **.**   and   \_at\_   is   **@**)
 
 ---
 
