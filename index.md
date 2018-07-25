@@ -12,7 +12,7 @@ title: Abhishek Jha
 
 - **\[May 2018\]** Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
 
-- **\[May 2018\]** Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
+- \[May 2018\] Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
 
 - **\[Apr 2018\]** Presenting our work on "Word-spotting in Silent Lip videos", at 1st Research Symposium, IIIT Hyderabad.
 
