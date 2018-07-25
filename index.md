@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Abhishek Jha's Research Page
+title: Abhishek Jha
 ---
 
 
