@@ -5,7 +5,7 @@ layout: default
 
 ## News
 
-- **\[Jul 2018\]** Presenting my work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
+- **\[Jul 2018\]** Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
 
 - **\[May 2018\]** Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
 
@@ -13,9 +13,9 @@ layout: default
 
 - **\[May 2018\]** Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
 
-- **\[Apr 2018\]** Presenting my work on "Word-spotting in Silent Lip videos", at 1nd Research Symposium, IIIT Hyderabad.
+- **\[Apr 2018\]** Presenting our work on "Word-spotting in Silent Lip videos", at 1nd Research Symposium, IIIT Hyderabad.
 
-- **\[Mar 2018\]** Presenting my work paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
+- **\[Mar 2018\]** Presenting our paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
 
 - **\[Jan 2018\]** Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
 
