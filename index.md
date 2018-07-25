@@ -5,6 +5,19 @@ layout: default
 
 ## News
 
+- **\[Jul 2018\]** Presenting my work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
+
+- **\[May 2018\]** Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
+
+- **\[May 2018\]** Giving a talk on "[Introduction to Image Style Transfer](/_data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
+
+- **\[May 2018\]** Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
+
+- **\[Apr 2018\]** Presenting my work on "Word-spotting in Silent Lip videos", at 1nd Research Symposium, IIIT Hyderabad.
+
+- **\[Mar 2018\]** Presenting my work paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
+
+
 
 
 ## Bio
