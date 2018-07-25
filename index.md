@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<div class = "top-container top-content">
+<!-- <div class = "top-container top-content">
 <img class="profile-picture" src="sherlock.jpg">
 <hr>
 
@@ -13,7 +13,7 @@ MS (by research), Computer Science
 [IIIT Hyderabad](http://iiit.ac.in)
 
 </div>
-
+ -->
 
 ## News
 
