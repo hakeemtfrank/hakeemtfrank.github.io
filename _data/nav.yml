@@ -4,5 +4,8 @@
 - name: "Resume"
   link: "resume.pdf"
 
-- name: "About"
-  link: "/researcher/"
+- name: "Publications"
+  link: "/#/publications"
+
+- name: "Bio"
+  link: "/#/bio"
