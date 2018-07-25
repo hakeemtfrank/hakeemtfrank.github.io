@@ -1,35 +1,7 @@
 ---
 layout: default
 ---
-<!-- 
 
-<div class = "top-container top-content">
-<img class="profile-picture" src="sherlock.jpg">
-<hr>
-
-Abhishek Jha  
-MS (by research), Computer Science  
-[Centre for Visual Information Technology (CVIT)](http://cvit.iiit.ac.in)  
-[IIIT Hyderabad](http://iiit.ac.in)
-
-</div>
- -->
-
-<!-- <div>
-<div class="alignable pull-left">
-<img class="profile-picture" src="sherlock.jpg" />
-</div>
-
-<div class="alignable pull-right">
-
-Abhishek Jha  
-MS (by research), Computer Science  
-[Centre for Visual Information Technology (CVIT)](http://cvit.iiit.ac.in)  
-[IIIT Hyderabad](http://iiit.ac.in)
-</div>
-</div>
-
-<div style="clear:both"></div> -->
 
 ## News
 
