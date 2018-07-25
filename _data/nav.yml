@@ -5,7 +5,7 @@
 #   link: "contact"
 
 - name: "Resume"
-  link: "resume.pdf"
+  link: "/data/resume.pdf"
 
 - name: "Publications"
   link: "/#/publications"
