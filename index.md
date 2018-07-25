@@ -34,7 +34,7 @@ Conference on Applications of Computer Vision (WACV) 2018.
 
 2. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018.
 
-3.  Sahil Chelaramani*, Abhishek Jha* and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018.  (*equal contribution)
+3.  Sahil Chelaramani/*, Abhishek Jha/* and Anoop Namboodiri, ”Cross-modal style transfer”, 25th IEEE International Conference on Image Processing (ICIP) 2018.  (*equal contribution)
 
 4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018.
