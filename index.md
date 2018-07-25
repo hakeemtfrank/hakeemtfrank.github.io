@@ -29,7 +29,7 @@ I am a Computer Science MS student at IIIT Hyderabad, working under the guidance
 
 ## Publications
 
-1.  Abhishek  Jha,  Vinay  Namboodiri  and  C.V.  Jawahar,  ”Word  Spotting  in  Silent  Lip  Videos”,  IEEE  Winter
+1.  Abhishek  Jha,  Vinay  Namboodiri  and  C.V.  Jawahar,  ”**Word  Spotting  in  Silent  Lip  Videos**”,  IEEE  Winter
 Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf)\] \[[Poster](https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing)\] \[[Project page](https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting)\]
 
 2. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\]
