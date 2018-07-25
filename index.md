@@ -15,7 +15,7 @@ MS (by research), Computer Science
 </div>
  -->
 
-<div>
+<!-- <div>
 <div class="alignable pull-left">
 <img class="profile-picture" src="sherlock.jpg" />
 </div>
@@ -29,7 +29,7 @@ MS (by research), Computer Science
 </div>
 </div>
 
-<div style="clear:both"></div>
+<div style="clear:both"></div> -->
 
 ## News
 
