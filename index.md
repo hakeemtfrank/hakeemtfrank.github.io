@@ -3,10 +3,6 @@ layout: default
 title: Abhishek Jha
 ---
 
-## Bio
-
-I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
-
 
 ## News
 
@@ -25,6 +21,11 @@ I am a Computer Science MS student at IIIT Hyderabad, working under the guidance
 - **\[Fab 2018\]** Organizing annual [R&D Showcase 2018](https://iiit.ac.in/randd/), at IIIT Hyderabad.
 
 - **\[Jan 2018\]** Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
+
+
+## Bio
+
+I am a Computer Science MS student at IIIT Hyderabad, working under the guidance of Prof. C. V. Jawahar.
 
 
 
