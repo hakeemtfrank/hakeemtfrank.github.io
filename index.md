@@ -39,7 +39,7 @@ Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvi
 4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. \[[Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)\]
 
-<!--
+<!---
 # ## Typography
 
 # This is a [**link**](http://google.com). Something *italics* and something **bold**.
