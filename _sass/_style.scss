@@ -11,7 +11,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Roboto","Lato" , "sans-serif", "Inconsolata";
+    font-family: "Roboto", "Lato" , "sans-serif", "Inconsolata";
     color: #333;
     height: 100%;
 }
@@ -71,7 +71,8 @@ hr {
     font-size: 16px;
 }
 
-.top-container {
+.mid-container {
+    font-size: 14px;
     max-width: $max-width;
     margin: auto;
 }
