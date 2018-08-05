@@ -70,7 +70,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">FIVER, <strong>CVPR Workshop</strong> 2018</span>
 				<br><br>
-				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
+				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Short Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
 			</p>
 		</td>
 		
