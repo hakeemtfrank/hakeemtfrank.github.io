@@ -58,16 +58,17 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/cvpr_w_2018_2.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">Lip-Synchronization for Dubbed Instructional Videos</a> <br>
 				<strong>Abhishek Jha</strong>,
 				Vikram Voleti,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
-				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a>, <br/>
+				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
 				<em>Fine-grained Instructional Video Understanding, CVPR Workshop 2018</em>
 				<br><br>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
