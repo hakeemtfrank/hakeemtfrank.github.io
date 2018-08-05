@@ -30,7 +30,7 @@ I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT wokring on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) working towards automation and energy consumption optimization in processing plant.
+Prior to this, I have spent one year (2015-16) as a research fellow at CVIT wokring on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 
 I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
