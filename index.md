@@ -82,7 +82,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/icip_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/icip_2018_2.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
@@ -100,7 +100,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/icip_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/icip_2018_2.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
