@@ -25,8 +25,9 @@ title: Abhishek Jha
 
 ## Bio
 
-I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/).
+I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/).
 
+My research focuses on computer vision, and machine learning for solving Visual Speech Recognition (VSR) by levarging the intersection of multiple modalities video \[speech videos\] audio \[speech audio\] and texts \[Natural language\].  I have also worked in the space of Image stylization towards enabling cross-modal transfer of style (from text to Photorealistic Images). My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
 
 ## Publications
