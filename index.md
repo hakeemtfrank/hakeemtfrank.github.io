@@ -68,7 +68,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				Vikram Voleti,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
-				<em><span style="color:#9A2617;">FIVER, CVPR Workshop 2018</span></em>
+				<em><span style="color:#9A2617;">FIVER, <strong>CVPR Workshop</strong> 2018</span></em>
 				<br><br>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
 			</p>
@@ -88,7 +88,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				Sahil Chelaramani,
 				<strong>Abhishek Jha</strong>,
 				<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a><br>
-				<em><span style="color:#9A2617;">IEEE International Conference on Image Processing (ICIP) 2018</span></em>
+				<em><span style="color:#9A2617;">IEEE International Conference on Image Processing <strong>(ICIP)<strong> 2018</span></em>
 				<br><br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
 			</p>
@@ -112,7 +112,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<strong>Abhishek Jha</strong>,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
-				<em><span style="color:#9A2617;">IEEE  Winter Conference on Applications of Computer Vision (WACV) 2018</span></em>
+				<em><span style="color:#9A2617;">IEEE  Winter Conference on Applications of Computer Vision <strong>(WACV)</strong> 2018</span></em>
 				<br><br>
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
 			</p>
