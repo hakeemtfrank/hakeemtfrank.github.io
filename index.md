@@ -66,7 +66,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<strong>Abhishek Jha</strong>,
 				Vikram Voleti,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
-				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a>,
+				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a>, <br/>
 				<em>Fine-grained Instructional Video Understanding, CVPR Workshop 2018</em>
 				<br><br>
 
