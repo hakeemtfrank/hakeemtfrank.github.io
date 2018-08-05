@@ -59,7 +59,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/image/cvpr_w_2018.png" alt="EmbodiedQA" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">Lip-Synchronization for Dubbed Instructional Videos</a> <br>
