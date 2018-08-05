@@ -30,7 +30,7 @@ I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT wokring on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
+Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 
 I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
@@ -98,9 +98,15 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 	</tr>		
 </tbody>
 
+
+
+
+
+
+
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/icip_2018_2.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
@@ -109,7 +115,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a><br>
 				<em>IEEE International Conference on Image Processing (ICIP) 2018</em>
 				<br><br>
-				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
+				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
 			</p>
 		</td>
 		
