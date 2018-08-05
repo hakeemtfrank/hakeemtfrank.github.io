@@ -130,7 +130,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 			<p>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval</a> <br>
-				Yashaswi Verma,
+				<a href="https://sites.google.com/view/yashaswiverma/">Yashaswi Verma</a>,
 				<strong>Abhishek Jha</strong>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">International Journal of Multimedia Information Retrieval, Springer, June 2018</span>
