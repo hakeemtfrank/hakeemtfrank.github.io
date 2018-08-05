@@ -3,8 +3,8 @@ layout: default
 is_contact: true
 ---
 
-* Email: [abhishek_dot_jha_at_research.iiit.ac.in](mailto:abhishek_dot_jha_at_research.iiit.ac.in)  
-(where \_dot\_ is   **.**   and   \_at\_   is   **@**)
+* Email: [abhishek [dot] jha [at]research.iiit.ac.in](mailto:abhishek_dot_jha_at_research.iiit.ac.in)  
+(where [dot] is   **.**   and   [at]   is   **@**)
 
 ---
 
