@@ -69,8 +69,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a>, <br/>
 				<em>Fine-grained Instructional Video Understanding, CVPR Workshop 2018</em>
 				<br><br>
-
-				\[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]>
+				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
 			</p>
 		</td>
 		
