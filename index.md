@@ -80,6 +80,29 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 
+<tbody>
+	<tr>
+		<td width="25%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="75%" valign="top">
+			<p>
+				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
+				Sahil Chelaramani,
+				<strong>Abhishek Jha</strong>,
+				<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a><br>
+				<em>IEEE International Conference on Image Processing (ICIP) 2018</em>
+				<br><br>
+				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
+
 </table>
 
 
