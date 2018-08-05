@@ -69,7 +69,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				Vikram Voleti,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
-				<em>Fine-grained Instructional Video Understanding, CVPR Workshop 2018</em>
+				<em>FIVER, CVPR Workshop 2018</em>
 				<br><br>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
 			</p>
@@ -110,10 +110,10 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 		<td width="75%" valign="top">
 			<p>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
-				Sahil Chelaramani,
 				<strong>Abhishek Jha</strong>,
-				<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a><br>
-				<em>IEEE International Conference on Image Processing (ICIP) 2018</em>
+				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
+				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
+				<em>IEEE  Winter Conference on Applications of Computer Vision (WACV) 2018</em>
 				<br><br>
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
 			</p>
