@@ -109,7 +109,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 		<td width="25%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
-				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
+				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">Word Spotting in Silent Lip Videos</a> <br>
 				<strong>Abhishek Jha</strong>,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
@@ -121,6 +121,27 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 		
 	</tr>		
 </tbody>
+
+
+<tbody>
+	<tr>
+		<td width="25%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="75%" valign="top">
+			<p>
+				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-specificity:  modelling data semantics for cross-modal
+matching and retrieval</a> <br>
+				Yashaswi Verma,
+				<strong>Abhishek Jha</strong>,
+				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
+				<em>International Journal of Multimedia Information Retrieval, Springer, June 2018</em>
+				<br><br>
+				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">[Link]</a>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
 
 
 
