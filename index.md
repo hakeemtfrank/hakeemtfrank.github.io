@@ -39,7 +39,7 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 ## Publications
 
-
+<!---
 1. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]
 
 
@@ -52,8 +52,7 @@ Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvi
 
 4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. \[[Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)\]
-
-
+-->
 
 
 
@@ -125,7 +124,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="25%"><img src="/images/IJMIR_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
 		<td width="75%" valign="top">
 			<p>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-specificity:  modelling data semantics for cross-modal
