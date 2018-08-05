@@ -53,6 +53,64 @@ Conference on Applications of Computer Vision (WACV) 2018. \[[Paper](https://cvi
 4. Yashaswi Verma, Abhishek Jha, C.V. Jawahar, ”Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval”, International Journal of Multimedia Information Retrieval, Springer, June 2018. \[[Link](https://link.springer.com/article/10.1007/s13735-017-0138-7)\]
 
+
+
+
+
+<tbody>
+	<tr>
+		<td width="25%"><img src="/image/cvpr_w_2018.png" alt="EmbodiedQA" width="250" style="border-style: none"></td>
+		<td width="75%" valign="top">
+			<p>
+				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">Lip-Synchronization for Dubbed Instructional Videos</a> <br>
+				<strong>Abhishek Jha</strong>,
+				Vikram Voleti,
+				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
+				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a>,
+				<em>Fine-grained Instructional Video Understanding, CVPR Workshop 2018</em>
+				<br><br>
+
+				\[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!---
 ## Typography
 
