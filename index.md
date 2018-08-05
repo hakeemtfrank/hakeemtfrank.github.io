@@ -88,7 +88,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				Sahil Chelaramani,
 				<strong>Abhishek Jha</strong>,
 				<a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a><br>
-				<em><span style="color:#9A2617;">IEEE International Conference on Image Processing <strong>(ICIP)<strong> 2018</span></em>
+				<em><span style="color:#9A2617;">IEEE International Conference on Image Processing <strong>(ICIP)<strong> 2018</em>
 				<br><br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
 			</p>
