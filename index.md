@@ -4,7 +4,7 @@ title: Abhishek Jha
 ---
 
 
-## News
+## Updates
 
 - **\[Jul 2018\]** Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
 
