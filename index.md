@@ -132,7 +132,7 @@ matching and retrieval</a> <br>
 				Yashaswi Verma,
 				<strong>Abhishek Jha</strong>,
 				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
-				<em>International Journal of Multimedia Information Retrieval, Springer, June 2018</em>
+				<em><span style="color:#9A2617;">International Journal of Multimedia Information Retrieval, Springer, June 2018</span></em>
 				<br><br>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">[Link]</a>
 			</p>
