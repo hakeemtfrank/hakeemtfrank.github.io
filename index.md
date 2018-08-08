@@ -6,7 +6,9 @@ title: Abhishek Jha
 
 ## Updates
 
-- **\[Jul 2018\]** Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
+
+
+- **\[Jul 2018\]** | Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
 
 - **\[May 2018\]** Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
 
@@ -22,7 +24,7 @@ title: Abhishek Jha
 
 - **\[Jan 2018\]** Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
 
-<hr>>
+<hr>
 
 ## Bio
 
