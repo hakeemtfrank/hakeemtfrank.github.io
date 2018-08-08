@@ -6,7 +6,7 @@ title: Abhishek Jha
 
 ## Updates
 
-
+--- | --- |
 
  **\[Jul 2018\]** | Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
 
@@ -24,7 +24,8 @@ title: Abhishek Jha
 
 - **\[Jan 2018\]** Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
 
-<hr>
+
+***
 
 ## Bio
 
@@ -38,7 +39,7 @@ Prior to this, I have spent one year (2015-16) as a research fellow at CVIT work
 I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
 
-<hr>
+***
 
 ## Publications
 
