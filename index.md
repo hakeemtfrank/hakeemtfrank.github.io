@@ -6,11 +6,11 @@ title: Abhishek Jha
 
 ## Updates
 
-&nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp;
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+&nbsp;&nbsp; | &nbsp;&nbsp; 
+-----|-------
+2014 | Emmy 
+2015 | BAFTA 
+2014 | Satellite 
 
 Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Value
 -----|-----
