@@ -54,6 +54,17 @@
             }
         }
     }
+    .custom_logo {
+        height: 60px;
+        width: 60px;
+        //box-shadow: 0 0 5px #828282;
+        position: relative;
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
     img {
         text-align: center;
         width: 100%;
