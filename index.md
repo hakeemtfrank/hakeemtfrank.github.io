@@ -6,6 +6,12 @@ title: Abhishek Jha
 
 ## Updates
 
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
 Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Value
 -----|-----
  **\[Jul 2018\]** | Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
