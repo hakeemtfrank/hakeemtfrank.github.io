@@ -53,7 +53,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none border-bottom: 5px solid red;">
 
 <tbody>
 	<tr>
