@@ -6,7 +6,7 @@ title: Abhishek Jha
 
 ## Updates
 
-Year | Award | Category
+&nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp;
 -----|-------|--------
 2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
