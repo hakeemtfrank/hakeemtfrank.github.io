@@ -29,7 +29,7 @@ My research focuses on computer vision and machine learning for solving Visual S
 
 Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 
-I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
+I graduated from <span style="color:#9A2617;">[IIT Dhanbad](http://iitism.ac.in)</span>, India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
 
 ***
