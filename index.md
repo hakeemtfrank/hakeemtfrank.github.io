@@ -38,7 +38,6 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;
 
-&nbsp;
 
 <!---
 1. Abhishek Jha, Vikram Voleti, Vinay Namboodiri and C.V. Jawahar, ”Lip-Synchronization for Dubbed Instructional Videos”, Fine-grained Instructional Video Understanding, CVPR Workshop 2018. \[[Paper](http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf)\] \[[Poster](https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing)\]
