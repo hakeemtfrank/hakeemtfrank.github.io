@@ -8,7 +8,7 @@ title: Abhishek Jha
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
- **\[Jul 2018\]** | Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
+ **\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
 **\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
 **\[May 2018\]** | Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
 **\[May 2018\]** | Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
