@@ -6,27 +6,15 @@ title: Abhishek Jha
 
 ## Updates
 
-&nbsp;&nbsp; | &nbsp;&nbsp; 
------|-------
-2014 | Emmy 
-2015 | BAFTA 
-2014 | Satellite 
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
+-----|-----
  **\[Jul 2018\]** | Presenting our work on "Speech dependent Lip-sychronization" at 2nd Research Symposium, IIIT Hyderabad.
-
 **\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
-
 **\[May 2018\]** | Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
-
 **\[May 2018\]** | Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
-
 **\[Apr 2018\]** | Presenting our work on "Word-spotting in Silent Lip videos", at 1st Research Symposium, IIIT Hyderabad.
-
 **\[Mar 2018\]** | Presenting our paper "Word-spotting in Silent Lip videos", at [WACV 2018](http://wacv18.wacv.net/), Lake Tahoe, CA.
-
 **\[Fab 2018\]** | Organizing annual [R&D Showcase 2018](https://iiit.ac.in/randd/), at IIIT Hyderabad.
-
 **\[Jan 2018\]** | Will be working as a "Mentor" [for Foundations of Artificial Intelligence and Machine Learning](https://www.talentsprint.com/aiml.dpl).
 
 
