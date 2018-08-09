@@ -27,7 +27,7 @@ I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
 
-Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager, Planning at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
+Prior to this, I have spent one year (2015-16) as a research fellow at CVIT working on a problem on cross-modal multimedia retrieval, under the supervision of Prof. Jawahar. Before moving to Hyderabad, I was a Manager (Planning), at [Tata Steel Limited](http://tatasteel.com/) (2014-15) working towards automation and energy consumption optimization in processing plant.
 
 I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tech in Electronics and Communication Engineering. During my undergraduate years I worked closely with Prof. Mrinal Sen and [Dr. Dilip Prasad](https://sites.google.com/site/dilipprasad/) on projects related to computer vision and robotics.
 
@@ -60,8 +60,8 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
-		<td width="75%" valign="top">
+		<td width="35%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
 			<p>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">Lip-Synchronization for Dubbed Instructional Videos</a> <br>
 				<strong>Abhishek Jha</strong>,
@@ -81,8 +81,8 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/icip_2018_3.png" alt="Visual_dub" width="250" style="border-style: none"></td>
-		<td width="75%" valign="top">
+		<td width="35%"><img src="/images/icip_2018_3.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
 			<p>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">Cross-modal style transfer</a> <br>
 				Sahil Chelaramani,
@@ -106,8 +106,8 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
-		<td width="75%" valign="top">
+		<td width="35%"><img src="/images/wacv_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
 			<p>
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">Word Spotting in Silent Lip Videos</a> <br>
 				<strong>Abhishek Jha</strong>,
@@ -125,8 +125,8 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <tbody>
 	<tr>
-		<td width="25%"><img src="/images/IJMIR_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
-		<td width="75%" valign="top">
+		<td width="35%"><img src="/images/IJMIR_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
 			<p>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-specificity:  modelling data semantics for cross-modal
 matching and retrieval</a> <br>
