@@ -153,9 +153,9 @@ matching and retrieval</a> <br>
 
 ***
 
-## Teachning
+## Teaching
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**
 Spring 2018: | Mentor in **Foundations of Artificial Intelligence and Machine Learning**
