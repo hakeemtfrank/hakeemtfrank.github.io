@@ -188,7 +188,7 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 - **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
 
-- **[2010 - 2012]**: Teacher, [http://www.kartavya.org/](Kartavya) , IIT(ISM) Dhanbad, an NGO for providing free and high quality education to underprivileged children living in slums and villages in india.
+- **[2010 - 2012]**: Teacher, [Kartavya](http://www.kartavya.org/) , IIT(ISM) Dhanbad, an NGO for providing free and high quality education to underprivileged children living in slums and villages in india.
 
 
 
