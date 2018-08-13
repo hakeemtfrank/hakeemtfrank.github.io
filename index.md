@@ -157,8 +157,8 @@ matching and retrieval</a> <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**
-Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**
+Monsoon 2018: | Teaching assistant (TA) in the course **Topics in Machine Learning (CSE975)**. Course instructor: [Prof. Naresh Manwani](https://sites.google.com/site/nareshmanwani/home)
+Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and Machine Learning**. Course instructor [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/)
 
 
 
@@ -174,10 +174,9 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 [Telangana Today](https://telanganatoday.com/iiit-hyderabad-to-organise-rd-showcase-2018-from-feb-24) [APN News](https://www.apnnews.com/iiit-hyderabad-celebrates-17th-convocation/)
 
-- **Organizing Team**: 1st Computer Vision Summer School 2016, IIIT Hyderabad.
+- **Organizing Team**: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad.
 
-
-
+- **Web Developer & Proceedings**: International Conference on Microwave and Photonics (**ICMAP**) 2013, IIT Dhanbad(https://www.iitism.ac.in/).
 
 
 
