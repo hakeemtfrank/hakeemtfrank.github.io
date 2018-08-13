@@ -162,7 +162,19 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 
 
+***
 
+## Services
+
+- **Reviewer**: Second International Conference on [Computer Vision & Image Processing](https://www.iitr.ac.in/cvip2017/) (**CVIP-2017**, September 10-12, 2017), IIT Roorkee.
+
+- **Organizing Team**:  17th [R&D showcase 2018](http://iiit.ac.in/randd/), IIIT Hyderabad: showcase of exhibits and demonstration research projects and represents of IIIT-H’s most recent developments in research and innovation in technology.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kj_P-it-ATE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+[Telangana Today](https://telanganatoday.com/iiit-hyderabad-to-organise-rd-showcase-2018-from-feb-24) [APN News](https://www.apnnews.com/iiit-hyderabad-celebrates-17th-convocation/)
+
+- **Organizing Team**: 1st Computer Vision Summer School 2016, IIIT Hyderabad.
 
 
 
