@@ -176,11 +176,19 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 - **Organizing Team**: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad.
 
-- **Web Developer & Proceedings**: IEEE International Conference on Microwave and Photonics (**ICMAP**) 2013, IIT Dhanbad(https://www.iitism.ac.in/).
+- **Web Developer & Proceedings**: IEEE International Conference on Microwave and Photonics (**ICMAP**) 2013, [IIT Dhanbad](https://www.iitism.ac.in/).
 
 
 
+## Other Activity
 
+- **[2016 - Present]**: Admin,  CVIT Lab, HPC cluster of  (aka Cosmos).
+
+- **[2017 - Present]**: Student Admin, IIIT Hyderbad HPC cluster (aka ADA).
+
+- **[2012 - 2013]**: Secretary, IEEE-Student branch, IIT(ISM) Dhanbad.
+
+- **[2010 - 2012]**: Teacher, [http://www.kartavya.org/](Kartavya) , IIT(ISM) Dhanbad, an NGO for providing free and high quality education to underprivileged children living in slums and villages in india.
 
 
 
