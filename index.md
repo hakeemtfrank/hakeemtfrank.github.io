@@ -166,7 +166,7 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 ## Services
 
-- **Reviewer**: Second International Conference on [Computer Vision & Image Processing](https://www.iitr.ac.in/cvip2017/) (**CVIP-2017**, September 10-12, 2017), IIT Roorkee.
+- **Reviewer**: Second IAPR International Conference on [Computer Vision & Image Processing](https://www.iitr.ac.in/cvip2017/) (**CVIP-2017**, September 10-12, 2017), IIT Roorkee.
 
 - **Organizing Team**:  17th [R&D showcase 2018](http://iiit.ac.in/randd/), IIIT Hyderabad: showcase of exhibits and demonstration research projects and represents of IIIT-H’s most recent developments in research and innovation in technology.
 
@@ -176,7 +176,7 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 - **Organizing Team**: 1st [Computer Vision Summer School](http://cvit.iiit.ac.in/summerschoolseries/) 2016, IIIT Hyderabad.
 
-- **Web Developer & Proceedings**: International Conference on Microwave and Photonics (**ICMAP**) 2013, IIT Dhanbad(https://www.iitism.ac.in/).
+- **Web Developer & Proceedings**: IEEE International Conference on Microwave and Photonics (**ICMAP**) 2013, IIT Dhanbad(https://www.iitism.ac.in/).
 
 
 
