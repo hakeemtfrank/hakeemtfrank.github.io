@@ -94,7 +94,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
 				<br><br>
-				<div style="height:100px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
+				<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
 				<strong>Abstract</strong><br>
 				We, humans, have the ability to easily imagine scenes that
 depict sentences such as “Today is a beautiful sunny day” or
@@ -150,7 +150,7 @@ demonstrate promising results using the YFCC100m dataset.
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
 				<br><br>
 
-<div style="height:100px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
 				<strong>Abstract</strong><br>
 				Our goal is to spot words in silent speech videos without
 explicitly recognizing the spoken words, where the lip mo-
@@ -199,7 +199,7 @@ matching and retrieval</a> <br>
 				<br>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">[Link]</a>
 				<br><br>
-<div style="height:100px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
 While dealing with multi-modal data such as pairs of images and text, though individual samples may demonstrate inherent heterogeneity in their content, they are usually coupled with each other based on some higher-level concepts such as their categories. This shared information can be useful in measuring semantics of samples across modalities in a relative manner. In this paper, we investigate the problem of analysing the degree of specificity in the semantic content of a sample in one modality with respect to semantically similar samples in another modality. Samples that have high similarity with semantically similar samples from another modality are considered to be specific, while others are considered to be relatively ambiguous. To model this property, we propose a novel notion of “cross-specificity”. We present two mechanisms to measure cross-specificity: one based on human judgement and other based on an automated approach. We analyse different aspects of cross-specificity and demonstrate its utility in cross-modal retrieval task. Experiments show that though conceptually simple, it can benefit several existing cross-modal retrieval techniques and provide significant boost in their performance.
 
 </div>
