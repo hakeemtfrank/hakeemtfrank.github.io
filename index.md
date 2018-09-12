@@ -94,7 +94,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<br><br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
 				<br>
-				<div style="height:100px;width:500px;overflow:auto;background-color:#ccccff;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:2px solid #28D;">
+				<div style="height:100px;width:500px;overflow:auto;background-color:#ccccff;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
 				<strong>Abstract</strong><br>
 				We, humans, have the ability to easily imagine scenes that
 depict sentences such as “Today is a beautiful sunny day” or
