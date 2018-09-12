@@ -80,10 +80,6 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 
-<hl>
-
-
-
 <tbody>
 	<tr>
 		<td width="35%"><img src="/images/icip_2018_3.png" alt="Visual_dub" width="250" style="border-style: none"></td>
@@ -135,7 +131,7 @@ demonstrate promising results using the YFCC100m dataset.
 </tbody>
 
 
-<hl>
+
 
 
 
@@ -187,13 +183,6 @@ perhaps in the silent movies.
 		
 	</tr>		
 </tbody>
-
-
-
-<hl>
-
-
-
 
 
 <tbody>
