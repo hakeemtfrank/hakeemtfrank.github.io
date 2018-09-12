@@ -146,8 +146,38 @@ demonstrate promising results using the YFCC100m dataset.
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">IEEE  Winter Conference on Applications of Computer Vision <strong>(WACV)</strong> 2018</span>
-				<br><br>
+				<br>
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
+				<br><br>
+
+<div style="height:100px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;">
+				<strong>Abstract</strong><br>
+				Our goal is to spot words in silent speech videos without
+explicitly recognizing the spoken words, where the lip mo-
+tion of the speaker is clearly visible and audio is absent. Ex-
+isting work in this domain has mainly focused on recogniz-
+ing a fixed set of words in word-segmented lip videos, which
+limits the applicability of the learned model due to limited
+vocabulary and high dependency on the model’s recogni-
+tion performance.
+Our contribution is two-fold:  1) we develop a pipeline
+for  recognition-free  retrieval,  and  show  its  performance
+against recognition-based retrieval on a large-scale dataset
+and another set of out-of-vocabulary words.  2) We intro-
+duce  a  query  expansion  technique  using  pseudo-relevant
+feedback and propose a novel re-ranking method based on
+maximizing the correlation between spatio-temporal land-
+marks of the query and the top retrieval candidates.  Our
+word  spotting  method  achieves  35%  higher  mean  aver-
+age precision over recognition-based method on large-scale
+LRW dataset. Finally, we demonstrate the application of the
+method by word spotting in a popular speech video (“
+The
+great dictator
+” by Charlie Chaplin) where we show that the
+word retrieval can be used to understand what was spoken
+perhaps in the silent movies.
+	</div>
 			</p>
 		</td>
 		
@@ -166,8 +196,13 @@ matching and retrieval</a> <br>
 				<strong>Abhishek Jha</strong>,
 				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">International Journal of Multimedia Information Retrieval, Springer, June 2018</span>
-				<br><br>
+				<br>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">[Link]</a>
+				<br><br>
+<div style="height:100px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+While dealing with multi-modal data such as pairs of images and text, though individual samples may demonstrate inherent heterogeneity in their content, they are usually coupled with each other based on some higher-level concepts such as their categories. This shared information can be useful in measuring semantics of samples across modalities in a relative manner. In this paper, we investigate the problem of analysing the degree of specificity in the semantic content of a sample in one modality with respect to semantically similar samples in another modality. Samples that have high similarity with semantically similar samples from another modality are considered to be specific, while others are considered to be relatively ambiguous. To model this property, we propose a novel notion of “cross-specificity”. We present two mechanisms to measure cross-specificity: one based on human judgement and other based on an automated approach. We analyse different aspects of cross-specificity and demonstrate its utility in cross-modal retrieval task. Experiments show that though conceptually simple, it can benefit several existing cross-modal retrieval techniques and provide significant boost in their performance.
+
+</div>
 			</p>
 		</td>
 		
