@@ -68,7 +68,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<strong>Abhishek Jha</strong>,
 				Vikram Voleti,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
-				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
+				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">FIVER, <strong>CVPR Workshop</strong> 2018</span>
 				<br><br>
 				<a href="http://fiver.eecs.umich.edu/abstracts/CVPRW_2018_FIVER_A_Jha.pdf">[Short Paper]</a> <a href="https://drive.google.com/file/d/19eTyXoDtKo_txxRRylg0mM9oQS7iKVaQ/view?usp=sharing">[Poster]</a>
@@ -93,6 +93,34 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				
 				<br><br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
+				<br>
+				We, humans, have the ability to easily imagine scenes that
+depict sentences such as “Today is a beautiful sunny day” or
+“There is a Christmas feel, in the air”. While it is hard to
+
+precisely describe what one person may imagine, the essen-
+tial high-level themes associated with such sentences largely
+
+remains the same. The ability to synthesize novel images that
+
+depict the feel of a sentence is very useful in a variety of appli-
+cations such as education, advertisement, and entertainment.
+
+While existing papers tackle this problem given a style im-
+age, we aim to provide a far more intuitive and easy to use
+
+solution that synthesizes novel renditions of an existing im-
+age, conditioned on a given sentence. We present a method
+
+for cross-modal style transfer between an English sentence
+
+and an image, to produce a new image that imbibes the essen-
+tial theme of the sentence. We do this by modifying the style
+
+transfer mechanism used in image style transfer to incorpo-
+rate a style component derived from the given sentence. We
+
+demonstrate promising results using the YFCC100m dataset.
 			</p>
 		</td>
 		
@@ -113,7 +141,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">Word Spotting in Silent Lip Videos</a> <br>
 				<strong>Abhishek Jha</strong>,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
-				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
+				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">IEEE  Winter Conference on Applications of Computer Vision <strong>(WACV)</strong> 2018</span>
 				<br><br>
 				<a href="https://cvit.iiit.ac.in/images/ConferencePapers/2018/Word-Spotting-in-Silent-Lip-Videos.pdf">[Paper]</a> <a href="https://drive.google.com/file/d/1XAE6gRhy2terH2DOmg87uEzpXzSDZgTk/view?usp=sharing">[Poster]</a> <a href="https://cvit.iiit.ac.in/research/projects/cvit-projects/lip-word-spotting">[Project Page]</a>
@@ -133,7 +161,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 matching and retrieval</a> <br>
 				<a href="https://sites.google.com/view/yashaswiverma/">Yashaswi Verma</a>,
 				<strong>Abhishek Jha</strong>,
-				<a href="https://www.cc.gatech.edu/~slee3191/">C. V. Jawahar</a> <br>
+				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">International Journal of Multimedia Information Retrieval, Springer, June 2018</span>
 				<br><br>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">[Link]</a>
