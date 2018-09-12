@@ -94,6 +94,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 				<br><br>
 				<a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[Paper]</a>
 				<br>
+				<div style="height:100px;width:140px;overflow:auto;background-color:#ccccff;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;">
 				We, humans, have the ability to easily imagine scenes that
 depict sentences such as “Today is a beautiful sunny day” or
 “There is a Christmas feel, in the air”. While it is hard to
@@ -121,6 +122,7 @@ transfer mechanism used in image style transfer to incorpo-
 rate a style component derived from the given sentence. We
 
 demonstrate promising results using the YFCC100m dataset.
+</div>
 			</p>
 		</td>
 		
