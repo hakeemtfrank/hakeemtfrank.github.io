@@ -7,6 +7,9 @@
 - name: "Resume"
   link: "/data/resume.pdf"
 
+- name: "Projects"
+  link: "projects"
+
 - name: "Publications"
   link: "/#publications"
 
