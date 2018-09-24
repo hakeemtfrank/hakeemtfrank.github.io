@@ -9,7 +9,8 @@ is_contact: true
 
 
 
-###################################################################################
+***
+
 <h3> 1. Audio Visual Speech Recognition and Synthesis </h3>
 
 <img class="img_custom" src="images/vsr_synth.jpg" align="right" padding ="10px"/>
@@ -36,7 +37,7 @@ On the other hand, we also propose a 'Visual-dubbing' method which re-synchroniz
 
 
 
-###################################################################################
+***
 
 <h3> 2. Cross-modal Style Transfer </h3>
 
@@ -61,7 +62,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 </div>
 
 
-###################################################################################
+***
 
 <h3> 3. Sketch simplification for SBIR </h3>
 
@@ -77,7 +78,7 @@ A key challenge in Sketch based image retrieval systems (SBIR) is to overcome th
 
 </div>
 
-###################################################################################
+***
 
 
 <h3> 4. Cross-modal multimedia retrieval</h3>
@@ -103,3 +104,5 @@ We make an attempt towards leveraging this shared information to model cross-mod
 
 </ol>
 </div>
+
+***
