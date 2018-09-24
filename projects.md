@@ -12,7 +12,7 @@ is_contact: true
 **2016 - Present**
 
 
-<img class="img" src="images/vsr_synth.jpg" />
+<img class="img" src="images/vsr_synth.jpg" width="300"/>
 
 
 
