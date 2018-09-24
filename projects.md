@@ -70,7 +70,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 
 <br>
 
-<h3> 4. Cross-modal multimedia retrieval</h3>
+<h3> 3. Cross-modal multimedia retrieval</h3>
 
 <img class="img_custom" src="images/cross_specificity.jpg" align="right" padding ="10px"/>
 
@@ -79,8 +79,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 <strong>Guide</strong>: Prof. C. V. Jawahar.
 <br>
 
-
-We make an attempt towards leveraging this shared information to model cross-modal semantics of a sample. For this, we introduce the notion of cross-specificity. Given collections of samples from two different modalities that share a common set of semantic categories, cross-specificity measures how well a sample in one modality portrays its (categorical)semantics relative to samples that belong to the same category in another modality.
+The category of a sample plays a central role in expressing its underlying semantics. If two modalities are known to share a common set of categories, this can be useful in modelling their mutual semantics with respect to each other. We make an attempt towards leveraging this shared information to model cross-modal semantics of a sample. For this, we introduce the notion of cross-specificity. Given collections of samples from two different modalities that share a common set of semantic categories, cross-specificity measures how well a sample in one modality portrays its (categorical)semantics relative to samples that belong to the same category in another modality.
 
 
 </div>
@@ -100,7 +99,7 @@ We make an attempt towards leveraging this shared information to model cross-mod
 
 <br>
 
-<h3> 3. Sketch simplification for SBIR </h3>
+<h3> 4. Sketch simplification for SBIR </h3>
 
 <img class="img_custom" src="images/unsupervised_sbir.jpg" align="right" padding ="10px"/>
 
