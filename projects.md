@@ -7,7 +7,7 @@ is_contact: true
 
 <h3> Audio Visual Speech Recognition and Synthesis </h3>
 
-<img class="img_custom" src="images/vsr_synth.jpg" width="300"/>
+<img class="img_custom" src="images/vsr_synth.jpg" width="400"/>
 
 **Guide**: Prof. C. V. Jawahar and Prof. Vinay P. Namboodiri.
 
