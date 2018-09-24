@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-## Audio Visual Speech Recognition and Synthesis
+## Projects
+
+<h2> Audio Visual Speech Recognition and Synthesis </h2>
 
 **Guide:** Prof. C. V. Jawahar, Prof. Vinay P. Namboodiri
 
