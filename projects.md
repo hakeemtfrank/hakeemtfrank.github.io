@@ -56,7 +56,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 
 <div style="font-size:12px;">
 <ol class="c">
-<li>Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, <strong>Cross-modal Style Transfer</strong>, IEEE International Conference on Image Processing <strong>(ICIP), Athens, Greece, 2018. <a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[PDF]</a></a></li>
+<li>Sahil Chelaramani, Abhishek Jha and Anoop Namboodiri, <strong>Cross-modal Style Transfer</strong>, IEEE International Conference on Image Processing (ICIP), Athens, Greece, 2018. <a href="https://drive.google.com/file/d/1lT8HNGrsUio9MW87XNattaUz5hsBkXYO/view?usp=sharing">[PDF]</a></li>
 
 </ol>
 </div>
