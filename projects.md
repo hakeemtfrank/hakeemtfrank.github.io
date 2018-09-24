@@ -75,6 +75,9 @@ We develop a method to combine the two modalities, which takes the overall menta
 
 A key challenge in Sketch based image retrieval systems (SBIR) is to overcome the ambiguity present in the sketch due to human imperfection in sketching, as it being limited user-depective skill. We present an image retrieval system for searching collection of natural images using free-hand sketches that depicts the shape of the object. We create a generalized shape of sketch provided by the user to create a query image, which simplifies the imperfect drawing of human input.
 
+<br>
+<br>
+<br>
 
 </div>
 
