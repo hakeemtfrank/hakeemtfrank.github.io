@@ -5,12 +5,7 @@ is_contact: true
 
 ## Projects
 
-<h2> Audio Visual Speech Recognition and Synthesis </h2>
-
-**Guide:** Prof. C. V. Jawahar, Prof. Vinay P. Namboodiri
-
-**2016 - Present**
-
+<h3> Audio Visual Speech Recognition and Synthesis </h3>
 
 <img class="img" src="images/vsr_synth.jpg" width="300"/>
 
