@@ -5,9 +5,14 @@ is_contact: true
 
 ## Projects
 
-<h3> Audio Visual Speech Recognition and Synthesis </h3>
+<h3> 1. Audio Visual Speech Recognition and Synthesis </h3>
 
-<img class="img_custom" src="images/vsr_synth.jpg" width="400"/>
+
+
+<div class="img_custom">
+
+<img  src="images/vsr_synth.jpg" width="400" align="right" />
+
 
 **Guide**: Prof. C. V. Jawahar and Prof. Vinay P. Namboodiri.
 
@@ -15,6 +20,7 @@ Speech is a multi-modal process, and lip-motion palys a major role in it (See [M
 
 On the other hand, we also propose a 'Visual-dubbing' method which re-synchronizes the lips of speaking characters in the foregoing language speech video according to the native language dubbing audio.
 
+</div>
 
 **Related Publications:**
 
