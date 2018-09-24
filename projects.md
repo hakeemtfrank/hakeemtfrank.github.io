@@ -15,7 +15,7 @@ is_contact: true
 
 <img class="img_custom" src="images/vsr_synth.jpg" align="right" padding ="10px"/>
 
-<div style="font-size:12px;text-align:justify;">
+<div style="font-size:14px;text-align:justify;">
 
 <strong>Guide</strong>: Prof. C. V. Jawahar and Prof. Vinay P. Namboodiri.
 <br>
@@ -45,7 +45,7 @@ On the other hand, we also propose a 'Visual-dubbing' method which re-synchroniz
 
 <img class="img_custom" src="images/text2style.jpg" align="right" padding ="10px"/>
 
-<div style="font-size:12px;text-align:justify;">
+<div style="font-size:14px;text-align:justify;">
 
 <strong>Guide</strong>: Prof. Anoop Namboodiri.
 <br>
@@ -74,7 +74,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 
 <img class="img_custom" src="images/cross_specificity.jpg" align="right" padding ="10px"/>
 
-<div style="font-size:12px;text-align:justify;">
+<div style="font-size:14px;text-align:justify;">
 
 <strong>Guide</strong>: Prof. C. V. Jawahar.
 <br>
@@ -103,9 +103,9 @@ The category of a sample plays a central role in expressing its underlying seman
 
 <img class="img_custom" src="images/unsupervised_sbir.jpg" align="right" padding ="10px"/>
 
-<div style="font-size:12px;text-align:justify;">
+<div style="font-size:14px;text-align:justify;">
 
-<strong>Guide</strong>: Prof. Vineet Gandhi (Course Project.
+<strong>Guide</strong>: Prof. Vineet Gandhi (Course Project).
 <br>
 
 A key challenge in Sketch based image retrieval systems (SBIR) is to overcome the ambiguity present in the sketch due to human imperfection in sketching, as it being limited user-depective skill. We present an image retrieval system for searching collection of natural images using free-hand sketches that depicts the shape of the object. We create a generalized shape of sketch provided by the user to create a query image, which simplifies the imperfect drawing of human input.
