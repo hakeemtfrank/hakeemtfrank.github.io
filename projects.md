@@ -64,26 +64,7 @@ We develop a method to combine the two modalities, which takes the overall menta
 </div>
 
 
-***
 
-<br>
-
-<h3> 3. Sketch simplification for SBIR </h3>
-
-<img class="img_custom" src="images/unsupervised_sbir.jpg" align="right" padding ="10px"/>
-
-<div style="font-size:12px;text-align:justify;">
-
-<strong>Guide</strong>: Prof. Anoop Namboodiri.
-<br>
-
-A key challenge in Sketch based image retrieval systems (SBIR) is to overcome the ambiguity present in the sketch due to human imperfection in sketching, as it being limited user-depective skill. We present an image retrieval system for searching collection of natural images using free-hand sketches that depicts the shape of the object. We create a generalized shape of sketch provided by the user to create a query image, which simplifies the imperfect drawing of human input.
-
-<br>
-<br>
-<br>
-
-</div>
 
 ***
 
@@ -95,7 +76,7 @@ A key challenge in Sketch based image retrieval systems (SBIR) is to overcome th
 
 <div style="font-size:12px;text-align:justify;">
 
-<strong>Guide</strong>: Prof. Jawahar.
+<strong>Guide</strong>: Prof. C. V. Jawahar.
 <br>
 
 
@@ -103,6 +84,8 @@ We make an attempt towards leveraging this shared information to model cross-mod
 
 
 </div>
+
+<br>
 
 **Related Publications:**
 
@@ -112,5 +95,27 @@ We make an attempt towards leveraging this shared information to model cross-mod
 
 </ol>
 </div>
+
+***
+
+<br>
+
+<h3> 3. Sketch simplification for SBIR </h3>
+
+<img class="img_custom" src="images/unsupervised_sbir.jpg" align="right" padding ="10px"/>
+
+<div style="font-size:12px;text-align:justify;">
+
+<strong>Guide</strong>: Prof. Vineet Gandhi (Course Project.
+<br>
+
+A key challenge in Sketch based image retrieval systems (SBIR) is to overcome the ambiguity present in the sketch due to human imperfection in sketching, as it being limited user-depective skill. We present an image retrieval system for searching collection of natural images using free-hand sketches that depicts the shape of the object. We create a generalized shape of sketch provided by the user to create a query image, which simplifies the imperfect drawing of human input.
+
+<br>
+<br>
+<br>
+
+</div>
+
 
 ***
