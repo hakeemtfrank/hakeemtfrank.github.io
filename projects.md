@@ -7,7 +7,7 @@ is_contact: true
 
 <h3> Audio Visual Speech Recognition and Synthesis </h3>
 
-<img class="img" src="images/vsr_synth.jpg" width="300"/>
+<img class="img_custom" src="images/vsr_synth.jpg" width="300"/>
 
 
 
