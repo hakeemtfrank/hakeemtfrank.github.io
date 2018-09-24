@@ -75,8 +75,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 			</p>
 		</td>
 		
-	</tr>	
-	<hr>	
+	</tr>		
 </tbody>
 
 
@@ -128,8 +127,7 @@ demonstrate promising results using the YFCC100m dataset.
 			</p>
 		</td>
 		
-	</tr>	
-	<hr>	
+	</tr>		
 </tbody>
 
 
@@ -183,12 +181,8 @@ perhaps in the silent movies.
 			</p>
 		</td>
 		
-	</tr>	
-	<hr>	
+	</tr>		
 </tbody>
-
-
-
 
 
 <tbody>
@@ -212,8 +206,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 			</p>
 		</td>
 		
-	</tr>
-	<hr>
+	</tr>		
 </tbody>
 
 
