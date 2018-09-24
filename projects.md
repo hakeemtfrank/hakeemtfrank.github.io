@@ -39,6 +39,8 @@ On the other hand, we also propose a 'Visual-dubbing' method which re-synchroniz
 
 ***
 
+<br>
+
 <h3> 2. Cross-modal Style Transfer </h3>
 
 <img class="img_custom" src="images/text2style.jpg" align="right" padding ="10px"/>
@@ -64,6 +66,8 @@ We develop a method to combine the two modalities, which takes the overall menta
 
 ***
 
+<br>
+
 <h3> 3. Sketch simplification for SBIR </h3>
 
 <img class="img_custom" src="images/unsupervised_sbir.jpg" align="right" padding ="10px"/>
@@ -83,6 +87,7 @@ A key challenge in Sketch based image retrieval systems (SBIR) is to overcome th
 
 ***
 
+<br>
 
 <h3> 4. Cross-modal multimedia retrieval</h3>
 
