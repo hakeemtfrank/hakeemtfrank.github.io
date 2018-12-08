@@ -22,7 +22,8 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
- **\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
+**\[Dec 2018\]** | Paper "Spotting Words in Real World Videos : A Retrieval based approach" accepted in Journal of Machine Vision Application (MVA), Springer.
+**\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
 **\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
 **\[May 2018\]** | Giving a talk on "[Introduction to Image Style Transfer](/data/intro_to_photorealistic_Image_stylization.pdf)", at [CVIT](http://cvit.iiit.ac.in), IIIT Hyderabad.
 **\[May 2018\]** | Paper "Cross-Modal Style Transfer" accepted at [ICIP](https://2018.ieeeicip.org/).
