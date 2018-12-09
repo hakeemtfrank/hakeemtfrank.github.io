@@ -72,7 +72,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
                                 <strong>Abhishek Jha</strong>,
                                 <a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
                                 <a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
-                        <span style="color:#9A2617;">Journal of Machine Vision and Applications <strong>(MVA)</strong> 2018</span>
+                        <span style="color:#9A2617;">Journal of Machine Vision and Applications <strong>(MVA)</strong>, Springer, 2018</span>
                                 <br><br>
                                 <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">[Paper]</a>
                         </p>
