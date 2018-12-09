@@ -60,6 +60,28 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
 
+
+
+<tbody>
+        <tr>
+                <td width="35%"><img src="/images/mva_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
+                <td width="65%" valign="top">
+                        <p>
+                                <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">
+				Spotting Words in Real World Videos : A Retrieval based approach</a>
+                                <strong>Abhishek Jha</strong>,
+                                <a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
+                                <a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
+                        <span style="color:#9A2617;">Journal of Machine Vision and Applications <strong>(MVA)</strong> 2018</span>
+                                <br><br>
+                                <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">[Paper]</a> <a href="https://d$
+                        </p>
+                </td>
+
+        </tr>
+</tbody>
+
+
 <tbody>
 	<tr>
 		<td width="35%"><img src="/images/cvpr_w_2018.png" alt="Visual_dub" width="250" style="border-style: none"></td>
