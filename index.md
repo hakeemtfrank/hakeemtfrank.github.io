@@ -23,6 +23,8 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
 **\[Feb 2019\]** | Paper "Cross-Language Speech Dependent Lip-Synchronization" accepted in ICASSP 2019.
+**\[Feb 2019\]** | Will be spending next couple of months in **IISc Bangalore** as a visiting student.
+**\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
 **\[Dec 2018\]** | Paper "Spotting Words in Real World Videos : A Retrieval based approach" accepted in Journal of Machine Vision Application (MVA), Springer.
 **\[Jul 2018\]** | Presenting our work on "Lip-Synchronization for Dubbed Instructional Videos" at 2nd Research Symposium, IIIT Hyderabad.
 **\[May 2018\]** | Short paper "Lip-Synchronization for Dubbed Instructional Videos" accepted at [CVPR 2018 Workshop (FIVER)](http://fiver.eecs.umich.edu/).
