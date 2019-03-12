@@ -7,7 +7,7 @@ title: Abhishek Jha
 
 ## Bio
 
-I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/).
+I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). I have recently submitted my MS thesis and currently visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/). Here I am working with [Dr. Partha Pratim Talukdar](talukdar.net) and [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG). I am also collaboration with [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) and [Ayush Bansal](www.cs.cmu.edu/~aayushb/) on a project on unsupervised video translation. 
 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
@@ -71,7 +71,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
                 <td width="65%" valign="top">
                         <p>
                                 <a href="https://drive.google.com/file/d/1PXF46jspuTgMcXnyWcTgA90ABFI0LfyU/view?usp=sharing">
-				Spotting Words in Real World Videos : A Retrieval based approach</a>
+				Spotting Words in Silent Speech Videos : A Retrieval based approach</a>
                                 <strong>Abhishek Jha</strong>,
                                 <a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
                                 <a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
