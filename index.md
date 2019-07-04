@@ -22,8 +22,8 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
-**\[Jul 2019\]** | **Accepted:** Our paper "Towards Automatic Face-to-Face Translation" accepted in ACM Multimedia 2019.
-**\[May 2019\]** | Vikram presented our work "Cross-Language Speech Dependent Lip-Synchronization" in ICASSP 2019, Brighton, UK.
+**\[Jul 2019\]** | **Accepted:** Our paper "Towards Automatic Face-to-Face Translation" accepted in [ACM Multimedia 2019](https://www.acmmm.org/2019/).
+**\[May 2019\]** | Vikram presented our work ["Cross-Language Speech Dependent Lip-Synchronization"](https://drive.google.com/file/d/1a88OiddZDcfrE1yh8UORnMXLWe_YOcHY/view?usp=sharing) in [ICASSP 2019](https://2019.ieeeicassp.org/), Brighton, UK.
 **\[Apr 2019\]** | Presented my work on "Audio-Visual Speech Recognition and Synthesis" at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/), Saarbrucken.
 **\[Apr 2019\]** | Successfully defended my MS thesis **Audio-Visual Speech Recognition and Synthesis**. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf). 
 **\[Feb 2019\]** | **Accepted:** "Cross-Language Speech Dependent Lip-Synchronization" accepted in ICASSP 2019.
