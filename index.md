@@ -76,7 +76,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 			<p>
 				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-Language Speech Dependent Lip-Synchronization</a> <br>
 				<strong>Abhishek Jha</strong>,
-				Vikram Voleti,
+                <a href="https://voletiv.github.io/">Vikram Voleti</a>,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
 				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
 			<span style="color:#9A2617;">International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019</span>
