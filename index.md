@@ -7,7 +7,7 @@ title: Abhishek Jha
 
 ## Bio
 
-I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). I have recently submitted my MS thesis and currently visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/). Here I am working with [Dr. Partha Pratim Talukdar](talukdar.net) and [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG). I am also collaboration with [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) and [Ayush Bansal](www.cs.cmu.edu/~aayushb/) on a project on unsupervised video translation. 
+I am a Computer Science MS student at IIIT Hyderabad. I am advised by [Prof. C. V. Jawahar](http://faculty.iiit.ac.in/~jawahar/) and co-advised by [Prof. Vinay P. Namboodiri](https://www.cse.iitk.ac.in/users/vinaypn/) at [Center for Visual Information Technology](http://cvit.iiit.ac.in/). I have recently submitted my MS thesis and currently visiting [IISc Bangalore](http://iisc.ac.in) as a Project Assistant at [MALL Lab](malllabiisc.github.io/). Here I am working with [Dr. Partha Pratim Talukdar](talukdar.net), [Dr. Anirban Chokraborty](cds.iisc.ac.in/news/author/anirban/) and [Dr. Anand Mishra](https://researchweb.iiit.ac.in/~anand.mishra/) on a project on Weakly supervised video understanding using Knowledge Graphs (KG).
 
 My research focuses on computer vision and machine learning for solving Visual Speech Recognition (VSR) which lies at the intersection of multiple modalities like videos (speech videos) audios (speech audio) and texts (Natural language).  I have also worked in the space of Image stylization for enabling cross-modal transfer of style. My goal is to develope robust and scalable solutions for real world sensing problems using computer vision.
 
@@ -22,6 +22,10 @@ I graduated from [IIT Dhanbad](http://iitism.ac.in), India, in 2014 with a B.Tec
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
 -----|-----
+**\[Jul 2019\]** | **Accepted:** Our paper "Towards Automatic Face-to-Face Translation" accepted in ACM Multimedia 2019.
+**\[May 2019\]** | Vikram presented our work "Cross-Language Speech Dependent Lip-Synchronization" in ICASSP 2019, Brighton, UK.
+**\[Apr 2019\]** | Presented my work on "Audio-Visual Speech Recognition and Synthesis" at [MPI-Informatics](https://www.mpi-inf.mpg.de/home/), Saarbrucken.
+**\[Apr 2019\]** | Successfully defended my MS thesis **Audio-Visual Speech Recognition and Synthesis**. [Thesis Link](http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.ab492d305f4ce6f0.416268697368656b5f6a68615f4d535f5468657369735f66696e616c5f64726166742832292e706466.pdf). 
 **\[Feb 2019\]** | **Accepted:** "Cross-Language Speech Dependent Lip-Synchronization" accepted in ICASSP 2019.
 **\[Feb 2019\]** | Will be spending next couple of months in **IISc Bangalore** as a visiting student.
 **\[Jan 2019\]** | Submitted my MS thesis at IIIT Hyderabad.
@@ -62,6 +66,37 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border-style: none ">
+
+
+
+<tbody>
+	<tr>
+		<td width="35%"><img src="/images/pic_icasssp_2019.png" alt="cross_lip_sync" width="250" style="border-style: none"></td>
+		<td width="65%" valign="top">
+			<p>
+				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-Language Speech Dependent Lip-Synchronization</a> <br>
+				<strong>Abhishek Jha</strong>,
+				Vikram Voleti,
+				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
+				<a href="http://faculty.iiit.ac.in/~jawahar/">C. V. Jawahar</a> <br>
+			<span style="color:#9A2617;">International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019</span>
+				<br>
+				<a href="https://drive.google.com/file/d/1a88OiddZDcfrE1yh8UORnMXLWe_YOcHY/view?usp=sharing">[Link]</a>
+				<br><br>
+<div style="height:80px;width:500px;overflow:auto;background-color:#def;scrollbar-base-color:gold;font-family:sans-serif;font-size:10px;padding:10px;overflow:auto;border:1px solid #abf;"><strong>Abstract</strong><br>
+Understanding videos of people speaking across international borders is hard as audiences from different demographies do not understand the language. Such speech videos are often supplemented with language subtitles. However, these hamper the viewing experience as the attention is shared. Simple audio dubbing in a different language makes the video appear unnatural due to unsynchronized lip motion. In this paper, we propose a system for automated cross-language lip synchronization for re-dubbed videos. Our model generates superior photorealistic lip-synchronization over original video in comparison to the current re-dubbing method. With the help of a user-based study, we verify that our method is preferred over unsynchronized videos.
+
+</div>
+			</p>
+		</td>
+		
+	</tr>		
+</tbody>
+
+
+
+
+
 
 
 
@@ -234,6 +269,7 @@ While dealing with multi-modal data such as pairs of images and text, though ind
 		
 	</tr>		
 </tbody>
+
 
 
 
