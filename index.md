@@ -304,6 +304,8 @@ Spring 2018: | Mentor in 1st foundations course on **Artificial Intelligence and
 
 ## Services
 
+- *Reviewer*: 7th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics ([NCVPRIPG 2019](http://ncvpripg.kletech.ac.in/)), December 22-24, 2019, Hublie.
+
 - *Reviewer*: Second IAPR International Conference on [Computer Vision & Image Processing](https://www.iitr.ac.in/cvip2017/) (**CVIP-2017**, September 10-12, 2017), IIT Roorkee.
 
 - *Organizing Team*:  17th [R&D showcase 2018](http://iiit.ac.in/randd/), IIIT Hyderabad: showcase of exhibits and demonstration research projects and represents of IIIT-H’s most recent developments in research and innovation in technology.

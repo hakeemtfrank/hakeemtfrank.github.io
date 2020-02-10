@@ -3,18 +3,18 @@ layout: default
 is_contact: true
 ---
 
-* Email: [abhishek [dot] jha [at] research.iiit.ac.in](mailto:abhishek[dot]jha[at]research.iiit.ac.in)  
+* Email: [abhishek [dot] jha [at] esat.kuleuven.be](mailto:abhishek[dot]jha[at]esat.kuleuven.be)  
 (where [dot] is   **.**   and   [at]   is   **@**)
 
 ---
 
 ## Mailing Address
 
-> Kadambh Niwas (NBH)
+> Departement Elektrotechniek - ESAT,
 >
-> IIIT Hyderabad, Gachibowli
+> Kasteelpark Arenberg 10, 3001 Leuven
 >
-> Telangana, India
+> Flanders, Belgium
 
 ---
 
