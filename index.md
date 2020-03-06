@@ -83,7 +83,7 @@ matching and retrieval”, International Journal of Multimedia Information Retri
 		<td width="35%"><img src="/images/pic_icasssp_2019.png" alt="cross_lip_sync" width="250" style="border-style: none"></td>
 		<td width="65%" valign="top">
 			<p>
-				<a href="https://link.springer.com/article/10.1007/s13735-017-0138-7">Cross-Language Speech Dependent Lip-Synchronization</a> <br>
+				<a href="https://drive.google.com/file/d/1a88OiddZDcfrE1yh8UORnMXLWe_YOcHY/view?usp=sharing">Cross-Language Speech Dependent Lip-Synchronization</a> <br>
 				<strong>Abhishek Jha</strong>,
                 <a href="https://voletiv.github.io/">Vikram Voleti</a>,
 				<a href="https://www.cse.iitk.ac.in/users/vinaypn/">Vinay P. Namboodiri</a>,
