@@ -7,6 +7,6 @@ layout: default
 <hr />
 
 Abhishek Jha  
-MS (by research), Computer Science  
-[Centre for Visual Information Technology (CVIT)](http://cvit.iiit.ac.in)  
-[IIIT Hyderabad](http://iiit.ac.in)
+(Pre)Doctoral Student, VISICS,
+[Departement Elektrotechniek](https://www.esat.kuleuven.be/)  
+[Katholieke Universiteit Leuven](https://www.kuleuven.be/)
