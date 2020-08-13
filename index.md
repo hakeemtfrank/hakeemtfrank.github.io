@@ -15,5 +15,4 @@ Previously I conducted research in computational fluid dynamics at Tulane Univer
 
 ## Contact
 
-* [Email](mailto:hakeemtfrank@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/hakeemtfrank/)
