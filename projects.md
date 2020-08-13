@@ -7,7 +7,7 @@ is_contact: true
 
 ### Aircraft Detection Using Deep Residual Neural Networks and Gaussian Process Classification
 
-<img class="img_custom" src="images/aircraft.png" align="right" padding ="10px"/>
+<img class="img_custom" src="images/aircraft.png" align="right" width=280 padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 Supervised learning is the task of finding a function f (x) that maps an input x to an output y using observed data. Gaussian process models approach supervised learning by assuming a probability over every possible function, using observed data to update the space of functions to consider using Bayes theorem, and taking the expected value of the space of functions to get an estimate for f (x). While Gaussian process models are commonly used in time series and regression domains, they can extend to classification tasks using a response function and variational inference. This thesis investigates Gaussian process models for image classification tasks using a class of non-stationary kernels that are particularly useful for local feature representations. Models are evaluated on high-resolution remote sensing imagery, a handwritten digits dataset. and a dataset of X-rays for detecting pneumonia in patients.
@@ -21,7 +21,7 @@ Supervised learning is the task of finding a function f (x) that maps an input x
 
 ### Predictive Analysis of Rideshare Demand
 
-<img class="img_custom" src="images/arima.png" align="right" padding ="10px"/>
+<img class="img_custom" src="images/arima.png" align="right" width=280 padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 This project investigates time series models for forecasting rideshare demand in the East Village area of Manhattan for June 2015, using pickup request data from the previous five months. Data was aggregated into 6-hour windows to encourage a normal distribution, and to maintain a useful analysis for drivers that could benefit from identifying optimal working "shifts" during the month. The proposed models were a Seasonal ARIMA (SARIMA) model, Vector Autoregression (VAR) model, and Poisson Generalized Linear Model (Poisson GLM). App prototype built using Streamlit.
@@ -32,7 +32,7 @@ This project investigates time series models for forecasting rideshare demand in
 
 ### Optimizing the Propulsive Performance of Heaving Panels with Nonuniform Elastic Profiles
 
-<img class="img_custom" src="images/panel.png" align="right" padding ="10px"/>
+<img class="img_custom" src="images/panel.png" align="right" width=280 padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 <br>
@@ -46,7 +46,7 @@ Recent studies have observed that many animals with flexible appendages follow b
 
 ### Geodemographic Segmentation with Factor Analysis
 
-<img class="img_custom" src="images/geodemo.jpg" align="right" padding ="10px"/>
+<img class="img_custom" src="images/geodemo.jpg" align="right" width=280 padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 <br>
@@ -59,7 +59,7 @@ Deeply understanding the patterns and behaviors of consumers has grown significa
 
 ### UFO Sightings Web Application
 
-<img class="img_custom" src="images/ufo.png" align="right" padding ="10px"/>
+<img class="img_custom" src="images/ufo.png" align="right" width=280 padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 <br>

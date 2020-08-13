@@ -4,7 +4,7 @@ layout: default
 
 ## Bio
 
-<img class="profile-picture" src="me.jpg">
+<img class="profile-picture" src="me.JPG">
 
 I work as a data scientist at [Esri](https://www.esri.com/en-us/home) focusing on machine learning for product and user analytics. I recently finished a M.S. in Mathematics with a concentration in Statistics at Cal Poly Pomona, where my thesis explored the performance of deep neural networks combined with Gaussian processes for aircraft detection in aerial imagery. I was advised by [Dr. Jimmy Risk](https://www.twitch.tv/videos/513445785). 
 
