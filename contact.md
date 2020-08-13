@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
+1. [LinkedIn](#)
 2. [Twitter](#)
 3. [Google+](#)
