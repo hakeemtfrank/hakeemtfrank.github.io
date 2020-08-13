@@ -5,6 +5,7 @@ is_contact: true
 
 ## Projects
 
+***
 ### Aircraft Detection Using Deep Residual Neural Networks and Gaussian Process Classification
 
 <img src="images/aircraft.png" align="right" width=280 padding ="10px"/>
@@ -18,7 +19,7 @@ Supervised learning is the task of finding a function f (x) that maps an input x
 
 
 
-
+---
 ### Optimizing the Propulsive Performance of Heaving Panels with Nonuniform Elastic Profiles
 
 <img src="images/panel.png" align="right" width=280 padding ="10px"/>
@@ -30,6 +31,7 @@ Recent studies have observed that many animals with flexible appendages follow b
 <a href="https://bit.ly/3kxLIFh" target="_blank">[PDF]</a>
 </div>
 
+---
 ### Geodemographic Segmentation with Factor Analysis
 
 <img src="images/geodemo.jpg" align="right" width=280 padding ="10px"/>
@@ -41,6 +43,7 @@ Deeply understanding the patterns and behaviors of consumers has grown significa
 <a href="https://bit.ly/2VPl2p0" target="_blank">[Web Application]</a>
 </div>
 
+---
 ### UFO Sightings Web Application
 
 <img src="images/ufo.png" align="right" width=280 padding ="10px"/>
