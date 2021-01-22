@@ -1,6 +1,6 @@
 title: Hakeem Frank
-url: "https://hakeemtfrank.github.io"
-baseurl: "/"
+url: "https://hakeemtfrank.github.io/projects"
+baseurl: "projects"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -18,8 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "about"
- - name: "Projects"
-   link: "/"
+#  - name: "Projects"
+#    link: "/"
    
 # - name: "Resume"
 #   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
