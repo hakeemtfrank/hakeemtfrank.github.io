@@ -8,7 +8,7 @@ layout: default
 
 ### Aircraft Detection Using Deep Residual Neural Networks and Gaussian Process Classification
 
-<img class = "img_custom" img src="images/aircraft.png" align="right" padding ="10px"/>
+<img class = "img_custom" img src="images/aircraft.png" height="200"  align="right" padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
@@ -22,7 +22,7 @@ Supervised learning is the task of finding a function f (x) that maps an input x
 
 ### forecastr
 
-<img class = "img_custom" img src="images/forecastr_sticker.png" align="right" padding ="10px"/>
+<img class = "img_custom" img src="images/forecastr_sticker.png" height="200" align="right" padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
@@ -35,7 +35,7 @@ An introductory guide for doing time series forecasting in R, inspired by Rob Hy
 ---
 ### Geodemographic Segmentation with Factor Analysis
 
-<img class = "img_custom" img src="images/geodemo.jpg" align="right" padding ="10px"/>
+<img class = "img_custom" img src="images/geodemo.jpg" height="200" align="right" padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 <br>
@@ -48,7 +48,7 @@ Deeply understanding the patterns and behaviors of consumers has grown significa
 ---
 ### Optimizing the Propulsive Performance of Heaving Panels with Nonuniform Elastic Profiles
 
-<img class = "img_custom" img src="images/panel.png" align="right" padding ="10px"/>
+<img class = "img_custom" img src="images/panel.png" height="200" align="right" padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
@@ -60,7 +60,7 @@ Recent studies have observed that many animals with flexible appendages follow b
 ---
 ### UFO Sightings Web Application
 
-<img class = "img_custom" img src="images/aliens.png" align="right" padding ="10px"/>
+<img class = "img_custom" img src="images/aliens.png" height="200" align="right" padding ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 

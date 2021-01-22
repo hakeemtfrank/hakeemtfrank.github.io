@@ -17,9 +17,9 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "about"
  - name: "Projects"
-   link: "projects"
+   link: "/"
    
 # - name: "Resume"
 #   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
