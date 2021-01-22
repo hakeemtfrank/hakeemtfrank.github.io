@@ -26,7 +26,7 @@ Supervised learning is the task of finding a function f (x) that maps an input x
 
 <div style="font-size:14px;text-align:justify;">
 
-An introductory guide for doing time series forecasting in R, inspired by Rob Hyndman's text on time series analysis and the Shumway & Stauffer time series analysis textbook. This guide is designed to walk through a few commonly-used forecasting models for business analytics. It's written for analysts that would like to strengthen their knowledge in building forecasting models and move beyond off-the-shelf forecast tools, such as Tableau's exponential smoothing forecast tool. 
+An [introductory guide](http://hakeemtfrank.github.io/forecastr) for doing time series forecasting in R, inspired by [Rob Hyndman's text](https://otexts.com/fpp2/) on time series analysis and the Shumway & Stauffer [time series analysis textbook](https://www.stat.pitt.edu/stoffer/tsa4/tsa4.pdf). This guide is designed to walk through a few commonly-used forecasting models for business analytics. It's written for analysts that would like to strengthen their knowledge in building forecasting models and move beyond off-the-shelf forecast tools, such as Tableau's exponential smoothing forecast tool. 
 <br>
 <li><a href="https://github.com/hakeemtfrank/forecastr" target="_blank">[Code]</a></li>
 <li><a href="https://hakeemtfrank.github.io/forecastr/" target="_blank">[Guide]</a> </li>

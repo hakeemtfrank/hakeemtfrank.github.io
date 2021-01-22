@@ -16,10 +16,11 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Projects"
+   link: "index"
  - name: "About"
    link: "about"
-#  - name: "Projects"
-#    link: "/"
+
    
 # - name: "Resume"
 #   link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
