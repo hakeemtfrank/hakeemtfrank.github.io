@@ -22,7 +22,7 @@ Supervised learning is the task of finding a function f (x) that maps an input x
 
 ### forecastr
 
-<img src="images/forecastr_sticker.png" height="200px" align="right" padding-left ="20px"/>
+<img class = "img_custom_2" img src="images/forecastr_sticker.png" height="200" align="right" padding-left ="20px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
