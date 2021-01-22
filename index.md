@@ -12,10 +12,9 @@ layout: default
 
 <div style="font-size:14px;text-align:justify;">
 
-Supervised learning is the task of finding a function f (x) that maps an input x to an output y using observed data. Gaussian process models approach supervised learning by assuming a probability over every possible function, using observed data to update the space of functions to consider using Bayes theorem, and taking the expected value of the space of functions to get an estimate for f (x). While Gaussian process models are commonly used in time series and regression domains, they can extend to classification tasks using a response function and variational inference. This thesis investigates Gaussian process models for image classification tasks using a class of non-stationary kernels that are particularly useful for local feature representations. Models are evaluated on high-resolution remote sensing imagery, a handwritten digits dataset. and a dataset of X-rays for detecting pneumonia in patients.
+Supervised learning is the task of finding a function f (x) that maps an input x to an output y using observed data. Gaussian process models approach supervised learning by assuming a probability over every possible function, using observed data to update the space of functions to consider using Bayes theorem, and taking the expected value of the space of functions to get an estimate for f (x). While Gaussian process models are commonly used in time series and regression domains, they can extend to classification tasks using a response function and variational inference. This work investigates Gaussian process models for image classification tasks using a class of non-stationary kernels that are particularly useful for local feature representations. 
 <br>
 <li><a href="https://github.com/hakeemtfrank/aircraft-detection" target="_blank">[Code]</a></li>
-<li><a href="https://bit.ly/31CUGsh" target="_blank">[PDF]</a> </li>
 </div>
 
 ---
