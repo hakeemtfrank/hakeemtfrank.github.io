@@ -12,7 +12,7 @@ I recently finished a M.S. in Mathematics with a concentration in Statistics at 
 
 Previously I conducted research in computational fluid dynamics at Tulane University under <a href="https://sites.google.com/view/alexanderphoover" target="_blank">Dr. Alexander Hoover</a>, <a href="https://sse.tulane.edu/math/faculty/cortez" target="_blank">Dr. Ricardo Cortez</a> and <a href="https://en.wikipedia.org/wiki/Lisa_Fauci" target="_blank">Dr. Lisa Fauci</a>. Our work investigated optimal mechanics of flying and swimming animals using the immersed boundary method and high performance computing on Tulane's <a href="https://wiki.hpc.tulane.edu/trac/wiki/cypress" target="_blank">giant supercomputer</a>.
 
-I love playing the guitar, going to concerts, and listening to all kinds of music (132,014 minutes listened in 2020). I'm also an [amateur photographer](https://www.flickr.com/photos/hakeemtonalli) and [farmer](https://bacchustales.com/sites/default/files/IMG_2103%20%282%29.JPG).
+I love playing the guitar, going to concerts, and listening to all kinds of music (132,014 minutes listened in 2020). I'm also an amateur [photographer](https://www.flickr.com/photos/hakeemtonalli) and [farmer](https://bacchustales.com/sites/default/files/IMG_2103%20%282%29.JPG).
 
 
 ---
