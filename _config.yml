@@ -1,6 +1,6 @@
 title: Hakeem Frank
-url: "https://hakeemtfrank.github.io/projects"
-baseurl: "projects"
+url: "https://hakeemtfrank.github.io/"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
