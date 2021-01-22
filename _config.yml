@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/hakeemtfrank"
-footer_text: "Hakeem Frank (c) 2021"
+footer_text: ". . ."
 
 sass:
     style: compressed
