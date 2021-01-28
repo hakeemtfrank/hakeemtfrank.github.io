@@ -17,11 +17,11 @@ sass:
 
 nav:
  - name: "Research"
-   link: "index"
+   link: "research"
  - name: "Projects"
    link: "projects"
  - name: "About"
-   link: "about"
+   link: "index"
 
    
 # - name: "Resume"

@@ -2,33 +2,23 @@
 layout: default
 ---
 
-## Research
+## Bio
+
+<img class="profile-picture" src="me.JPG">
+
+I work as a data scientist at <a href="https://www.esri.com/en-us/home" target="_blank">Esri</a> developing models for market research and user analytics. I recently finished a M.S. in Mathematics with a concentration in Statistics at Cal Poly Pomona, where my thesis explored the performance of deep neural networks combined with Gaussian processes for [aircraft detection](https://github.com/hakeemtfrank/aircraft-detection) in aerial imagery. I was advised by <a href="https://www.reddit.com/r/ac_newhorizons/comments/giikrj/for_our_online_final_my_professor_invited_us_to/" target="_blank">Dr. Jimmy Risk</a>. 
+
+Previously I conducted research in computational fluid dynamics at Tulane University under <a href="https://sites.google.com/view/alexanderphoover" target="_blank">Dr. Alexander Hoover</a>, <a href="https://sse.tulane.edu/math/faculty/cortez" target="_blank">Dr. Ricardo Cortez</a> and <a href="https://en.wikipedia.org/wiki/Lisa_Fauci" target="_blank">Dr. Lisa Fauci</a>. Our work investigated optimal mechanics of flying and swimming animals using the immersed boundary method and high performance computing on Tulane's <a href="https://wiki.hpc.tulane.edu/trac/wiki/cypress" target="_blank">giant supercomputer</a>.
+
+I love playing the guitar, going to concerts, and listening to all kinds of music (132,014 minutes listened in 2020). I'm also an amateur [photographer](https://www.flickr.com/photos/hakeemtonalli) and [farmer](https://bacchustales.com/sites/default/files/IMG_2103%20%282%29.JPG).
+
 
 ---
 
-### Aircraft Detection Using Deep Residual Neural Networks and Gaussian Process Classification
+## Contact
 
-<img class = "img_custom" img src="images/aircraft.png" align="right" padding ="10px"/>
-
-<div style="font-size:14px;text-align:justify;">
-
-Supervised learning is the task of finding a function f (x) that maps an input x to an output y using observed data. Gaussian process models approach supervised learning by assuming a probability over every possible function, using observed data to update the space of functions to consider using Bayes theorem, and taking the expected value of the space of functions to get an estimate for f (x). While Gaussian process models are commonly used in time series and regression domains, they can extend to classification tasks using a response function and variational inference. This work investigates Gaussian process models for image classification tasks using a class of non-stationary kernels that are particularly useful for local feature representations. 
-<br>
-<li><a href="https://github.com/hakeemtfrank/aircraft-detection" target="_blank">[Code]</a></li>
-</div>
-
----
-### Optimizing the Propulsive Performance of Heaving Panels with Nonuniform Elastic Profiles
-
-<img class = "img_custom" img src="images/panel.png" align="right" padding ="10px"/>
-
-<div style="font-size:14px;text-align:justify;">
-
-Recent studies have observed that many animals with flexible appendages follow bending kinematics that transcend animal taxa and fluid medium. In this study we examine the motion of the flexible appendages by deriving mathematical models for the motion of flexible panels using a network of springs and beams. To understand the role of the fluid environment, we incorporated our model into the immersed boundary method, which allowed us to simulate heaving panels with a background fluid flow. The panel’s rigidity and heaving frequency were varied across the parameter space and their propulsive performance was recorded. The relationship between their elastic properties and thrust output for uniform panels was then analyzed with respect to Euler-Bernoulli beam equation. Beam mode analysis allowed us to relate effective flexibility, a non-dimensional number stemming from the beam equation, to trailing edge amplitude, which corresponds to optimized thrust output. Local maxima in thrust output correspond with specific effective flexibilities across various beam stiffnesses and frequencies. The study then examined that panels with non-uniform stiffnesses output a higher thrust than those with uniform stiffness of the same values.
-<br>
-<li><a href="https://bit.ly/3kxLIFh" target="_blank">[PDF]</a></li>
-</div>
-
-
-
-
+**Email:** hakeemtfrank [at] gmail [dot] com
+* <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank">CV</a>
+* <a href="https://www.linkedin.com/in/hakeemtfrank/" target="_blank">LinkedIn</a>
+* <a href="https://github.com/hakeemtfrank" target="_blank">Github</a>
+* <a href="https://scholar.google.com/citations?user=hkq6W-AAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>
