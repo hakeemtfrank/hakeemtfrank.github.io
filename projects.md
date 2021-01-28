@@ -6,9 +6,7 @@ layout: default
 
 ---
 
-### forecastr
-
-<img class = "img_squares" img src="images/forecastr_sticker.png" align="right" padding-left ="10px"/>
+### forecastr <img class = "img_squares" img src="images/forecastr_sticker.png" align="right" padding-left ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
