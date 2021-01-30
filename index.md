@@ -18,7 +18,7 @@ I love playing the guitar, going to concerts, and listening to all kinds of musi
 ## Contact
 
 **Email:** hakeemtfrank [at] gmail [dot] com
-* <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO" target="_blank">CV</a>
+* <a href="hhttps://hakeemtfrank.github.io/files/Hakeem_Frank_CV.pdf" target="_blank">CV</a>
 * <a href="https://github.com/hakeemtfrank" target="_blank">Github</a>
 * <a href="https://www.linkedin.com/in/hakeemtfrank/" target="_blank">LinkedIn</a>
 * <a href="https://scholar.google.com/citations?user=hkq6W-AAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar</a>
