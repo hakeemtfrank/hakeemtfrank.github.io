@@ -12,3 +12,12 @@ An <a href="http://hakeemtfrank.github.io/forecastr" target="_blank">introductor
 </div>
 
 ---
+
+## geodemographic-segmentation <img class = "img_squares" img src="images/demogmap.png" align="right" padding-left ="10px"/>
+
+<div style="font-size:14px;text-align:justify;">
+
+Deeply understanding the patterns and behaviors of consumers has grown significantly in importance with the prevalence of digital advertising. Consequently, data-driven practices in fields such as marketing, psychology, and political science have emerged to meet the demands of this trend. One such practice is [geodemographic segmentation](https://www.esri.com/about/newsroom/publications/wherenext/psychographics-market-analysis-moves-beyond-demographics/), which segments geographic areas based on their underlying demographics using quantitative analysis. This project investigates how the demographics of different postal codes in Louisiana can be segmented using dimensionality reduction techniques including Principal Components Analysis (PCA), Factor Analysis (EFA), and Linear Discriminant Analysis (LDA). Given a set of demographic and consumer spending variables, the results of the analysis show that there are two distinct factors that can be used to describe the characteristics of each postal code; social livelihood and per-capita spending. We also find that urbanized areas score higher on both factors, while rural areas score low in both factors.
+<br>
+<li><a href="https://github.com/hakeemtfrank/geodemographic-segmentation" target="_blank">[Code]</a> <a href="https://esrisalesportal.maps.arcgis.com/apps/Minimalist/index.html?appid=29aaebd01ffb44b1870a1a857becc6fd" target="_blank">[Web Map]</a> </li>
+</div>
