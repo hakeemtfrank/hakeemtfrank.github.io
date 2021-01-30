@@ -13,7 +13,9 @@ An <a href="http://hakeemtfrank.github.io/forecastr" target="_blank">introductor
 
 ---
 
-## geodemographic-segmentation <img class = "img_squares" img src="images/demogmap.png" align="right" padding-left ="10px"/>
+## geodemographic-segmentation 
+
+<img class = "img_squares" img src="images/demogmap.png" align="right" padding-left ="10px"/>
 
 <div style="font-size:14px;text-align:justify;">
 
